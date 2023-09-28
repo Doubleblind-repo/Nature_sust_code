@@ -1,5 +1,5 @@
 # Nature_sust_code
-Base code and data for Nature Sustainability Manuscript Submission #NATSUSTAIN-23093372 under Double Blind Peer Review system.
+Base code and data for Communications Earth & Environment Manuscript Submission #COMMSENV-23-1531-T under Double Blind Peer Review system.
 
 ---
 
